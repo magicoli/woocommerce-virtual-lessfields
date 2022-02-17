@@ -2,7 +2,7 @@
 /**
  * Plugin Name:       WooCommerce Virtual less fields
  * Description:       Less address fields for virtual only orders
- * Version:           0.1.0
+ * Version:           0.1.1
  * Author:            Magiiic
  * Author URI:        https://magiiic.com
  * Plugin URI:        https://git.magiiic.com/wordpress/woocommerce-virtual-lessfields
@@ -30,7 +30,10 @@ function wcvlf_checkout_fields_filter( $fields ) {
   // loop through our cart
   foreach( WC()->cart->get_cart() as $cart_item_key => $cart_item ) {
     // Check if there are non-virtual products and if so make it false
-    if ( ! $cart_item['data']->is_virtual() ) $virtual_products = false;
+    if ( ! $cart_item['data']->is_virtual() || $cart_item['data']->get_meta( '_domainname' ) == 'yes' ) {
+      $virtual_products = false;
+      break;
+    }
   }
 
   // only unset fields if virtual_products is true so we have no physical products in the cart

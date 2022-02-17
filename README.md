@@ -12,4 +12,6 @@
 
 ## Description
 
-Remove address fields on WooCommerce checkout page for orders with only virtual products.
+Removes address fields on WooCommerce checkout page for orders with only virtual products.
+
+Ignores products identified as domain names with [WooCommerce Domain Names](https://magiiic.com/wordpress/plugins/wc-domain-names/) plugin.
