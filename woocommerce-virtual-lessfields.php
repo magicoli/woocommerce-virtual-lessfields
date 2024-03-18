@@ -5,7 +5,7 @@
  * Version:           0.1.1
  * Author:            Magiiic
  * Author URI:        https://magiiic.com
- * Plugin URI:        https://git.magiiic.com/wordpress/woocommerce-virtual-lessfields
+ * Plugin URI:        https://magiiic.com/wordpress/plugins/woocommerce-virtual-lessfields/
  * License:           GNU General Public License v2
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.html
  * Requires at least: 4.6
