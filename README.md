@@ -1,4 +1,4 @@
-# WooCommerce Virtual less fields
+# WooCommerce Virtual Less Fields
 
 ![Version 1.0.1](https://img.shields.io/badge/Version-1.0.1-blue.svg)
 ![Stable 1.0.1](https://img.shields.io/badge/Stable-1.0.1-green.svg)

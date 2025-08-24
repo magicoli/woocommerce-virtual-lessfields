@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name:       WooCommerce Virtual less fields
+ * Plugin Name:       WooCommerce Virtual Less Fields
  * Description:       Less address fields for virtual only orders
  * Plugin URI:        https://github.com/magicoli/woocommerce-virtual-lessfields
  * Author:            Magiiic
