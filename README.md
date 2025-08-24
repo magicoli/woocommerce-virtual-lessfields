@@ -1,17 +1,15 @@
 # WooCommerce Virtual less fields
 
-- Contributors: magicoli69
-- Donate link: <https://paypal.me/magicoli>
-- Tags: woocommerce, billing address, shipping address, address fields
-- Requires at least: 4.5
-- Tested up to: 5.9
-- Requires PHP: 5.6
-- Stable tag: 0.1.0
-- License: AGPLv3 or later
-- License URI: <https://www.gnu.org/licenses/agpl-3.0.html>
+![Version](https://img.shields.io/badge/Version-1.0.0-blue.svg)
+![Stable](https://img.shields.io/badge/Stable-1.0.0-green.svg)
+![WordPress](https://img.shields.io/badge/Wordpress-%3E%3D5.0-blue.svg)
+![PHP](https://img.shields.io/badge/PHP-%3E%3D5.6-purple.svg)
+![License](https://img.shields.io/badge/License-AGPLv3-red.svg)
+
+Remove address fields on WooCommerce checkout page for orders with only virtual products.
 
 ## Description
 
-Removes address fields on WooCommerce checkout page for orders with only virtual products.
+Remove address fields on WooCommerce checkout page for orders with only virtual products.
 
 Ignores products identified as domain names with [WooCommerce Domain Names](https://magiiic.com/wordpress/plugins/wc-domain-names/) plugin.
