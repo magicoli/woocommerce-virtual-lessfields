@@ -1,6 +1,6 @@
 === WooCommerce Virtual less fields ===
 Contributors: magicoli69
-Donate link: https://paypal.me/magicoli
+Donate link: https://magiiic.org/donate/
 Tags: woocommerce, billing address, shipping address, address fields
 Requires at least: 5.0
 Tested up to: 6.8.2
