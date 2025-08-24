@@ -4,8 +4,8 @@ Donate link: https://magiiic.org/donate/
 Tags: woocommerce, billing address, shipping address, address fields
 Requires at least: 5.0
 Tested up to: 6.8.2
-Requires PHP: 5.6
-Stable tag: 1.0.0
+Requires PHP: 7.4
+Stable tag: 1.0.1
 License: AGPLv3 or later
 License URI: https://www.gnu.org/licenses/agpl-3.0.html
 
@@ -22,6 +22,11 @@ Ignores products marked as domain names with [WooCommerce Domain Names](https://
 * Just install and activate, no setup
 
 == Changelog ==
+
+= 1.0.1 =
+
+* Added GitHub Actions workflow for automated releases
+* Updated minimum PHP version to 7.4 (nobody should use long-time deprecated versions)
 
 = 1.0.0 =
 

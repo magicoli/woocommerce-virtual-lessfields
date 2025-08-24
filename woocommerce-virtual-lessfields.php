@@ -7,7 +7,7 @@
  * Author URI:        https://magiiic.com
  * Text Domain:       woocommerce-virtual-lessfields
  * Domain Path:       /languages
- * Version:           1.0.0
+ * Version:           1.0.1
  *
  * @package woocommerce-virtual-lessfields
  * Adapted from: https://wpbeaches.com/remove-address-fields-in-woocommerce-checkout/
